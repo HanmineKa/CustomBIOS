@@ -1,4 +1,4 @@
-# Modded-bios-repo
+# Modded-bios-archieve
 Just my archive of already modded BIOS. Do your own research before using anything from this repo as I don't provide 'how to flash modded BIOS' or 'how to fix bricked motherboard'. For modding requests, you can open an issue.
 
 **NOTE :** always do backup your original bios
