@@ -1,15 +1,17 @@
 # Modded-bios-archive
-Just my archive of already modded BIOS. Do your own research before using anything from this repo as I don't provide 'how to flash modded BIOS' or 'how to fix bricked motherboard'. For modding requests, you can open an issue.
+Just my archive of already modded BIOS. Do your own research before using anything from this repo as I don't provide 'how to flash modded BIOS' or 'how to fix bricked motherboard'.
 
-**NOTE :** always do backup your original bios
+Open request [here](https://github.com/HanmineKa/Modded-bios-archive/discussions/1).
+
+**NOTE : ALWAYS DO BACKUP YOUR BIOS!!!**
 # Resizable Bar
-more infomation [Intel & AMD](https://github.com/xCuri0/ReBarUEFI), [Nvdia Turing](https://github.com/terminatorul/NvStrapsReBar)
+More infomation [Intel & AMD](https://github.com/xCuri0/ReBarUEFI), [Nvdia Turing](https://github.com/terminatorul/NvStrapsReBar).
 # NVMe
-more infomation [here](https://winraid.level1techs.com/t/howto-get-full-nvme-support-for-all-systems-with-an-ami-uefi-bios/30901)
+More infomation [here](https://winraid.level1techs.com/t/howto-get-full-nvme-support-for-all-systems-with-an-ami-uefi-bios/30901).
 # CoffeLake on SkyLake and KabyLake
-more infomation [here](https://winraid.level1techs.com/t/tool-easy-automated-mod-tool-for-coffee-lake-bios/32795)
+More infomation [here](https://winraid.level1techs.com/t/tool-easy-automated-mod-tool-for-coffee-lake-bios/32795).
 # Bifurcation(?)
-still learning lol
+Still learning lol
 # Credit
 - **[Win-Raid Forum](https://winraid.level1techs.com/)** for an incredible place to learn bios modding
 - **[@SoniX](https://winraid.level1techs.com/u/sonix/summary)** for [UEFI BIOS Updater (UBU) Tool](https://winraid.level1techs.com/t/tool-guide-news-uefi-bios-updater-ubu/30357)
