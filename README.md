@@ -3,7 +3,7 @@ Just my archive of already modded BIOS. Do your own research before using anythi
 
 Open request [here](https://github.com/HanmineKa/Modded-bios-archive/discussions/1).
 
-**NOTE : ALWAYS DO BACKUP YOUR BIOS!!!**
+**NOTE : ALWAYS DO BACKUP YOUR ORIGINAL BIOS!!!**
 # Resizable Bar
 More infomation [Intel & AMD](https://github.com/xCuri0/ReBarUEFI), [Nvdia Turing](https://github.com/terminatorul/NvStrapsReBar).
 # NVMe
