@@ -1,6 +1,4 @@
 # Modded-bios-archive
-| 🔴 - Lmao "**NO**" | 🟠 - Not Tested | 🟡 - Need Special Attention | 🟢 - Worked |
-
 Just my archive of already modded BIOS. Do your own research before using anything from this repo as I don't provide 'how to fix bricked motherboard'.
 
 Open request [here](https://github.com/HanmineKa/Modded-bios-archive/discussions/1).
