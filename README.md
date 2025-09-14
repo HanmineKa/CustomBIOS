@@ -1,6 +1,6 @@
 # Modded-bios-archive
 Just my archive of already modded BIOS. Do your own research before using anything from this repo as I don't provide 'how to fix bricked motherboard'.
-
+All motherboard list [here](https://github.com/HanmineKa/Modded-bios-archive/discussions/15)
 Open request [here](https://github.com/HanmineKa/Modded-bios-archive/discussions/1).
 # FLashing Method
 Depend on your need.
@@ -25,7 +25,7 @@ Just put that CPU into the socket lol.
 # Credit
 - **[Win-Raid Forum](https://winraid.level1techs.com/)** for an incredible place to learn bios modding
 - **[@SoniX](https://winraid.level1techs.com/u/sonix/summary)** for [UEFI BIOS Updater (UBU) Tool](https://winraid.level1techs.com/t/tool-guide-news-uefi-bios-updater-ubu/30357)
-- **[@revlaay](https://winraid.level1techs.com/u/revlaay/summary)** for [CoffeTime Tool](https://winraid.level1techs.com/t/tool-easy-automated-mod-tool-for-coffee-lake-bios/32795)
+- **[@revlaay](https://winraid.level1techs.com/u/revlaay/summary)** for [CoffeeTime Tool](https://winraid.level1techs.com/t/tool-easy-automated-mod-tool-for-coffee-lake-bios/32795)
 - **[@dsanke](https://winraid.level1techs.com/u/dsanke/summary)** for Coffee Lake CPU Pin Mod Mapping
 - **[@Ethaniel](https://winraid.level1techs.com/u/ethaniel/summary)** for NVMe EFI DXE 
 - **[@xCuri0](https://github.com/xCuri0)** for ReBarUEFI EFI DXE
