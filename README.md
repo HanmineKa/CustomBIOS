@@ -1,4 +1,4 @@
-# Mod BIOS Archive
+# BIOS Mod Archive
 Just my archive of already modded BIOS. Do your own research before using anything from this repo as I don't provide 'how to fix bricked motherboard'.
 All motherboard list [here](https://github.com/HanmineKa/Modded-bios-archive/wiki) & Open request [here](https://github.com/HanmineKa/Modded-bios-archive/discussions/1).
 # FLashing Method
