@@ -1,4 +1,4 @@
-# Modded-bios-archive
+# Modded bios archive
 Just my archive of already modded BIOS. Do your own research before using anything from this repo as I don't provide 'how to fix bricked motherboard'.
 All motherboard list [here](https://github.com/HanmineKa/Modded-bios-archive/wiki) & Open request [here](https://github.com/HanmineKa/Modded-bios-archive/discussions/1).
 # FLashing Method
@@ -6,9 +6,9 @@ Depend on your need.
 
 For general motherboard [here](https://winraid.level1techs.com/t/guide-how-to-flash-a-modded-ami-uefi-bios/30627).
 
-For Unlocked All Region Flash Descriptor you can use [Intel FPT](https://winraid.level1techs.com/t/intel-cs-management-engine-drivers-firmware-and-tools-2-15/30719).
+For Already Unlocked All Region Flash Descriptor you can use [Intel FPT](https://winraid.level1techs.com/t/intel-cs-management-engine-drivers-firmware-and-tools-2-15/30719).
 
-For Sky, Kaby, Cfl, Xeon you will have to use [Flash Programmer](https://winraid.level1techs.com/t/guide-using-ch341a-based-programmer-to-flash-spi-eeprom/30834).
+For Sky, Kaby, Cfl, Xeon mod. Most likely you will have to use [Flash Programmer](https://winraid.level1techs.com/t/guide-using-ch341a-based-programmer-to-flash-spi-eeprom/30834).
 
 **Assume all of that above method still fail, Get some Programmer lol.**
 # NVMe
