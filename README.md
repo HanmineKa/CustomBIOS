@@ -18,9 +18,9 @@ For Sky, Kaby, Cfl, Xeon mod. Most likely you will have to use [Flash Programmer
 More infomation about the installation OS [here](https://winraid.level1techs.com/t/howto-get-full-nvme-support-for-all-systems-with-an-ami-uefi-bios/30901).
 # Resizable Bar
 More infomation [Intel & AMD](https://github.com/xCuri0/ReBarUEFI), [Nvdia Turing](https://github.com/terminatorul/NvStrapsReBar).
-# Sky Lake/Kaby Lake on 300 Series
+# SkyLake/KabyLake/Xeon v5-v6 on 300 Series
 Just put that CPU into the socket lol.
-# Coffee Lake on 100/200 Series
+# CoffeeLake on 100/200 Series
 <img width="316" height="600" alt="pinmap" src="https://github.com/user-attachments/assets/05f29da8-ce6a-40f0-95a4-bf66b7edbbe0" />
 <img width="638" height="376" alt="comparison_b0u0p0r0" src="https://github.com/user-attachments/assets/e14b9bfa-4356-4f69-9348-7c291c479ef9" />
 
